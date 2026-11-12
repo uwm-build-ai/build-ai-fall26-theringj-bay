@@ -1,0 +1,14 @@
+- so_that: Dev picks a style of workout and a time slot.
+  as_a: Night-Shift Engineer
+  headline: ''
+  i_want: Pick a workout and a time slot for the 40 minutes
+- so_that: Dev starts the workout that matches the amount of energy he has left
+  as_a: Night-Shift Engineer
+  headline: ''
+  i_want: >-
+    🤖 Our AI suggests a run, swim, bike, or gym workout for my 40 minutes and
+    energy level
+- so_that: Dev does not skip a day because the app keeps him on track for each break
+  as_a: Night-Shift Engineer
+  headline: ''
+  i_want: 👤 A reminder is send before each break with a recommended workout
