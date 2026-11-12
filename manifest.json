@@ -66,5 +66,40 @@
     "note": "Walk now or Later completed"
    }
   ]
+ },
+ "my_brief": {
+  "sha": "f37d8f536da6e0c83ac14c85f56bf9aa6da8c07f",
+  "entry": "module_08/app.md",
+  "files": [
+   "module_08/app.md",
+   "module_08/welcome.md",
+   "module_08/zim.yaml",
+   "module_08/pitch.yaml",
+   "module_08/map.md",
+   "module_08/features.yaml",
+   "module_01/cv.md"
+  ],
+  "by": "theringj",
+  "engine": "d423bf3",
+  "at": "2026-11-12T05:54:09.316Z",
+  "history": [
+   {
+    "sha": "f37d8f536da6e0c83ac14c85f56bf9aa6da8c07f",
+    "at": "2026-11-12T05:54:09.316Z",
+    "entry": "module_08/app.md",
+    "engine": "d423bf3",
+    "parts": [
+     "import",
+     "persona",
+     "pitch",
+     "runner",
+     "dataset",
+     "datagrid",
+     "tabs"
+    ],
+    "todo": 0,
+    "note": "shipped app for move club"
+   }
+  ]
  }
 }
